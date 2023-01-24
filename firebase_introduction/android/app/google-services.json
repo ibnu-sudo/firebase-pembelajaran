@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "382755592400",
+    "project_id": "ibnu-firebase-a2eb5",
+    "storage_bucket": "ibnu-firebase-a2eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382755592400:android:fde9c878f3653bd01fe6d5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_introduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382755592400-j59kggb65ss1kf5p3tsuquqdfeu5anl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe6SXjYCm3fRriQAdm09fhObxbHHJ3RJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382755592400-j59kggb65ss1kf5p3tsuquqdfeu5anl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382755592400-a6k0agnoqgghk9ab2v41eangkldh3nii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseIntroduction"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
